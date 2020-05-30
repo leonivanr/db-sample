@@ -1,4 +1,12 @@
 {
-"userAproved": "S",
-"userDenied": "N"
+  "users": [
+    {
+      "id": 1,
+      "approved": "S"
+    },
+    {
+      "id": 2,
+      "approved": "N"
+    }
+  ]
 }
