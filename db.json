@@ -8,15 +8,5 @@
       "id": 2,
       "approved": "N"
     }
-  ],
-  "books": [
-    {
-      "id": 1,
-      "name": "First"
-    },
-    {
-      "id": 2,
-      "name": "First"
-    }
   ]
 }
