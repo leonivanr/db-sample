@@ -9,7 +9,7 @@
       "approved": "N"
     }
   ],
-    "books": [
+  "books": [
     {
       "id": 1,
       "name": "First"
@@ -18,5 +18,5 @@
       "id": 2,
       "name": "First"
     }
-  ],
+  ]
 }
